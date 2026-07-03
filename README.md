@@ -20,6 +20,7 @@ src: Carpeta destinada al código fuente que se implementará durante el desarro
 README.md: Contiene la información general del proyecto y una descripción del sistema.
 go.mod: Archivo de configuración del módulo de Go.
 .gitignore: Archivo utilizado para excluir archivos que no deben formar parte del repositorio.
+
 Tecnologías utilizadas
 Lenguaje de programación: Go (Golang).
 Control de versiones: Git.
