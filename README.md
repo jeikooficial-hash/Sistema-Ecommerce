@@ -1,26 +1,30 @@
-Sistema de Gestión de E-commerce
 Información del estudiante
 
-Estudiante: Alexander Joel Vargas Guayanay
-Docente: Ing. Milton Ricardo Palacios Morocho
-Institución: Universidad Internacional del Ecuador (UIDE)
-Asignatura: Programación Orientada a Objetos
-Actividad: Aprendizaje Autónomo 1 – Selección de Sistemas de Gestión Empresarial
+* Estudiante: Alexander Joel Vargas Guayanay
+* Docente: Ing. Milton Ricardo Palacios Morocho
+* Institución: Universidad Internacional del Ecuador (UIDE)
+* Sistema de Gestión de E-commerce - Etapa 1: Planeación del Software
 
-Descripción
-
-Este repositorio contiene la planificación de un Sistema de Gestión de e-commerce desarrollada como parte del Aprendizaje Autónomo 1 de la asignatura Programación Orientada a Objetos. En esta primera etapa se presenta la definición de los módulos principales del sistema, el alcance del proyecto, los paquetes de Go que se utilizarán y la configuración inicial del repositorio en GitHub, como base para las siguientes fases del desarrollo.
+Este repositorio fue creado para desarrollar la primera etapa del proyecto de la asignatura Programación Orientada a Objetos. En esta fase se realiza la planificación del Sistema de Gestión de e-commerce, definiendo los módulos principales, el alcance del proyecto, los paquetes que se utilizarán en Go y la organización del repositorio antes de iniciar la programación.
 
 Estructura del proyecto
 
-Para mantener el proyecto organizado desde el inicio, el repositorio está estructurado de la siguiente manera:
+Para mantener el proyecto organizado desde el inicio, el repositorio se encuentra estructurado de la siguiente manera:
 
-Docs: Contiene la documentación del proyecto, como el informe de planificación y los documentos que se desarrollarán en las siguientes etapas.
-src: Carpeta destinada al código fuente que se implementará durante el desarrollo del sistema.
-README.md: Contiene la información general del proyecto y una descripción del sistema.
-go.mod: Archivo de configuración del módulo de Go.
-.gitignore: Archivo utilizado para excluir archivos que no deben formar parte del repositorio.
-Tecnologías utilizadas
-Lenguaje de programación: Go (Golang).
-Control de versiones: Git.
-Repositorio remoto: GitHub.
+/Docs: En esta carpeta se almacenará la documentación del proyecto, como el informe de planificación y otros documentos relacionados con el desarrollo.
+
+/src: Carpeta destinada al código fuente que se implementará en las siguientes etapas del proyecto.
+
+README.md: Contiene la información general del proyecto y una breve descripción del sistema.
+
+go.mod: Archivo de configuración del módulo de Go necesario para el desarrollo del proyecto.
+
+.gitignore: Archivo utilizado para excluir archivos que no deben almacenarse en el repositorio.
+
+Tecnologías que se utilizarán
+
+Lenguaje de programación: Go (Golang)
+
+Control de versiones: Git
+
+Repositorio remoto: GitHub
