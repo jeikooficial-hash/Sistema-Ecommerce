@@ -24,10 +24,6 @@ Sistema-Ecommerce
 ├── go.mod
 └── .gitignore
 
-Lenguaje
-
-Go
-
 Estado del proyecto
 
 En planificación.
