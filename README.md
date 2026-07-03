@@ -26,8 +26,8 @@ Sistema-Ecommerce
 
 Lenguaje
 
-- Go
+Go
 
-## Estado del proyecto
+Estado del proyecto
 
 En planificación.
