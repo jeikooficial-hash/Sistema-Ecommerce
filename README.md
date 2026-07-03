@@ -12,9 +12,7 @@ Actividad: Aprendizaje Autónomo 1 – Selección de Sistemas de Gestión Empres
 
 Descripción
 
-Este repositorio corresponde a la primera etapa de planificación de un Sistema de Gestión de E-commerce desarrollado como parte de la asignatura Programación Orientada a Objetos.
-
-En esta etapa se presenta la planificación del proyecto, los módulos principales del sistema, el alcance, la configuración del repositorio y la estructura inicial para el desarrollo utilizando el lenguaje Go.
+Este repositorio contiene la planificación de un Sistema de Gestión de E-commerce desarrollada para la asignatura Programación Orientada a Objetos. En esta primera etapa se presentan los módulos del sistema, el alcance del proyecto, la configuración inicial del repositorio y la estructura básica para su desarrollo utilizando el lenguaje Go.
 
 Estructura del proyecto
 
