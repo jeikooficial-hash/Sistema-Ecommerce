@@ -1,30 +1,29 @@
-Información del estudiante
+# Información del estudiante
 
-* Estudiante: Alexander Joel Vargas Guayanay
-* Docente: Ing. Milton Ricardo Palacios Morocho
-* Institución: Universidad Internacional del Ecuador (UIDE)
-* Sistema de Gestión de E-commerce - Etapa 1: Planeación del Software
+- **Estudiante:** Alexander Joel Vargas Guayanay
+- **Docente:** Ing. Milton Ricardo Palacios Morocho
+- **Institución:** Universidad Internacional del Ecuador (UIDE)
 
-Este repositorio fue creado para desarrollar la primera etapa del proyecto de la asignatura Programación Orientada a Objetos. En esta fase se realiza la planificación del Sistema de Gestión de e-commerce, definiendo los módulos principales, el alcance del proyecto, los paquetes que se utilizarán en Go y la organización del repositorio antes de iniciar la programación.
+# Sistema de Gestión de E-commerce
 
-Estructura del proyecto
+Este repositorio fue creado para desarrollar la primera etapa del proyecto correspondiente a la asignatura **Programación Orientada a Objetos**. En esta fase se presenta la planificación del Sistema de Gestión de e-commerce, donde se definen los módulos principales, el alcance del proyecto, los paquetes que se utilizarán en Go y la organización inicial del repositorio antes de comenzar el desarrollo del software.
+
+# Estructura del Proyecto
 
 Para mantener el proyecto organizado desde el inicio, el repositorio se encuentra estructurado de la siguiente manera:
 
-/Docs: En esta carpeta se almacenará la documentación del proyecto, como el informe de planificación y otros documentos relacionados con el desarrollo.
+- **/Docs:** Contiene el informe de planificación y la documentación del proyecto.
 
-/src: Carpeta destinada al código fuente que se implementará en las siguientes etapas del proyecto.
+- **/src:** Carpeta destinada al código fuente que se desarrollará en las siguientes etapas.
 
-README.md: Contiene la información general del proyecto y una breve descripción del sistema.
+- **README.md:** Archivo con la información general y descripción del proyecto.
 
-go.mod: Archivo de configuración del módulo de Go necesario para el desarrollo del proyecto.
+- **go.mod:** Archivo de configuración del módulo de Go.
 
-.gitignore: Archivo utilizado para excluir archivos que no deben almacenarse en el repositorio.
+- **.gitignore:** Archivo utilizado para excluir archivos que no deben almacenarse en el repositorio.
 
-Tecnologías que se utilizarán
+# Tecnologías que se utilizarán
 
-Lenguaje de programación: Go (Golang)
-
-Control de versiones: Git
-
-Repositorio remoto: GitHub
+- **Lenguaje:** Go (Golang)
+- **Control de versiones:** Git
+- **Repositorio remoto:** GitHub
